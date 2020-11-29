@@ -1,0 +1,6 @@
+name: ASkyblock-Addon
+version: 1.0.0
+author: Zeuss
+main: me.zeuss.asba.Main
+
+commands:

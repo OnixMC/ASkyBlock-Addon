@@ -1,0 +1,15 @@
+air_interract: true
+block_interract: true
+prevent_teleport: true
+prevent_teleport_world: 'ASkyBlock'
+
+messages:
+  enable: true
+  click_block: '&cVocê não possui permissão para interagir com esta ilha.'
+  prevent_teleport: '&cVocê não possui permissão para acessar esta ilha.'
+
+itens_hand:
+  - 'minecraft:wood_hoe'
+
+block_protection:
+  - 'minecraft:furnace'
