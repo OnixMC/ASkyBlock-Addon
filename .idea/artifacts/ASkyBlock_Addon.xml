@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ASkyBlock-Addon">
-    <output-path>$PROJECT_DIR$/../../../../Programs/Minecraft/Servers/OnixMC - 1.12.2/plugins</output-path>
-    <root id="archive" name="ASkyBlock-Addon.jar">
-      <element id="module-output" name="ASkyBlock-Addon" />
-    </root>
-  </artifact>
-</component>
